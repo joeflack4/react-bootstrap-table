@@ -19,7 +19,7 @@ export default {
   NO_DATA_TEXT: 'There is no data to display',
   SHOW_ONLY_SELECT: 'Show Selected Only',
   SHOW_ALL: 'Show All',
-  EXPORT_CSV_TEXT: 'Export to CSV',
+  EXPORT_CSV_TEXT: 'Export to .CSV',
   INSERT_BTN_TEXT: 'New',
   DELETE_BTN_TEXT: 'Delete',
   SAVE_BTN_TEXT: 'Save',
